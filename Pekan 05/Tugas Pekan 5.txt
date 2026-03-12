@@ -8,3 +8,5 @@ Java Polymorphism
 Java super Keyword
 Java Inner Classes
 Java Abstraction
+
+Pengumpulan Tugas dilakukan di dalam Folder "Pekan 05" dengan nama folder "XXX-Nama Lengkap" (XXX adalah 3 digit terakhir NIM)
